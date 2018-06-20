@@ -1,1 +1,2 @@
-## More refreshing on GitHub... Hell World :)
+## Phillip Wessels on GitHub
+More refreshing on GitHub... Hello World :)
